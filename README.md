@@ -1,5 +1,5 @@
 # *Robeyns Pierre*
-![image alt text](/Pierre.png)
+![image alt text](/pierre.png)
 
 ###  Tout vient à point à qui sait attendre !  
 -----------------------------------------------
