@@ -30,7 +30,7 @@
 - Aider à s'organiser
 --------------------------------------------------
 
-##### Petite histoire
+#### Petite histoire
 
 Mon premier jour de travail comme gestionnaire de chantier.  
 Je devais me rendre sur chantier avec mon manager pour commencer
