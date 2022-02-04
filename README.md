@@ -36,7 +36,7 @@
 
 Mon premier jour de travail comme gestionnaire de chantier.  
 Je devais me rendre sur chantier avec mon manager pour commencer ma formation.  
-Ils venaient de couler les semelles de fondations du bâtiment **( 80cm de hauteur de béton )**.  
+Ils venaient de couler les semelles de fondations du bâtiment *( 80cm de haut de béton )*.  
 J'avance pour aller serrer la pince aux maçons sur place et **PAF** !  
 Me voilà la jambe complètement remplie de béton...  
 Très bonne première impression.  
@@ -44,4 +44,4 @@ J'ai passé une agréable fin de journée :rage:.
 
 
 
-:arrow_backward: [précédent](https://github.com/philouLeF/challenge-markdown) || Pierre Robeyns || [Suivant](https://github.com/sarah-jpro/challenge-markdown/blob/main/markdown.md) :arrow_forward:
+:arrow_backward: [Précédent](https://github.com/philouLeF/challenge-markdown) || Pierre Robeyns || [Suivant](https://github.com/sarah-jpro/challenge-markdown/blob/main/markdown.md) :arrow_forward:
