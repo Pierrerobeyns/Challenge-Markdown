@@ -11,7 +11,7 @@
 |Genre   	|Male  	|
 |Couleur favorite   	|Green  	|
 |Plat favori   	|Beers :trollface:  	|
-|Ananas sur la pizza :pizza:   	|- [x] Oui  - [] Non	|  
+|Ananas sur la pizza :pizza:   	|<input type="checkbox"/> Oui  <input type="checkbox" disabled/> Non	|  
 ---------------------------------------------------------
 
 #### Hobby  
