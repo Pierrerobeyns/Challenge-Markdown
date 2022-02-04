@@ -43,4 +43,4 @@
 
 
 
-<< précédent || Robeyns Pierre || suivat [GitHub Pages](https://github.com/sarah-jpro/challenge-markdown/blob/main/markdown.md) >>
+<< [précédent](https://github.com/philouLeF/markdownSolo) || Pierre Robeyns || [Suivant](https://github.com/sarah-jpro/challenge-markdown/blob/main/markdown.md) >>
