@@ -11,4 +11,4 @@
 |Gender   	|Male  	|
 |Favorite Color   	|Green  	|
 |Favorite Food   	|Beers :trollface:  	|
-|Pinneapple on pizza :pizza:   	| YES  	|
+|Pinneapple on pizza :pizza:   	|- [x] YES  - [] NO	|
