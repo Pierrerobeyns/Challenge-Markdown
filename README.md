@@ -1,2 +1,2 @@
 # *Robeyns Pierre*
-![image](/Pierre.png)
+![image alt text](/Pierre.png)
