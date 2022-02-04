@@ -1,4 +1,4 @@
-# *Robeyns Pierre*
+# [center]*Robeyns Pierre*[/center]
 ![image alt text](/Pierre.png)
 
 ### Tout vient à point à qui sait attendre !
