@@ -51,4 +51,4 @@ J'ai passé une agréable fin de journée :rage:.
 
 
 
-<< [précédent](https://github.com/philouLeF/markdownSolo) || Pierre Robeyns || [Suivant](https://github.com/sarah-jpro/challenge-markdown/blob/main/markdown.md) >>
+:arrow_backward: [précédent](https://github.com/philouLeF/markdownSolo) || Pierre Robeyns || [Suivant](https://github.com/sarah-jpro/challenge-markdown/blob/main/markdown.md) :arrow_forward:
