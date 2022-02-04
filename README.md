@@ -2,7 +2,7 @@
 ![image alt text](/Pierre.png)
 
 ### > Tout vient à point à qui sait attendre !  
-
+-----------------------------------------------
 
 
 |:question:   	|:exclamation:  	|
@@ -12,10 +12,9 @@
 |Favorite Color   	|Green  	|
 |Favorite Food   	|Beers :trollface:  	|
 |Pinneapple on pizza :pizza:   	|- [x] YES  - [] NO	|  
+---------------------------------------------------------
 
-
-#### Hobbies 
--------------
+#### Hobbies  
 - Rugby
 - Tennis
 - Videos Games
