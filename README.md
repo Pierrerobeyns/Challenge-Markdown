@@ -14,7 +14,8 @@
 |Pinneapple on pizza :pizza:   	|- [x] YES  - [] NO	|  
 
 
-##### Hobbies 
+#### Hobbies 
+-------------
 - Rugby
 - Tennis
 - Videos Games
