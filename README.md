@@ -30,7 +30,14 @@
 - Aider à s'organiser
 --------------------------------------------------
 
-##### 
+##### Petite histoire
+
+Mon premier jour de travail comme gestionnaire de chantie.
+Je devais me rendre sur chantier avec mon manager pour commencer
+ma formation. Ils venaient de couler les semelles de fondations ( 80cm de hauteur de béton ).
+J'avance pour aller serrer la pince aux maçons sur place et **PAF** !
+Me voilà la jambe complète remplie de béton...
+J'ai passé une agréable fin de journée :rage:.
 
 
 
